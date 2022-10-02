@@ -14,3 +14,9 @@ Copyright 1993,1998,2014 Toyoda Masashi (mtoyoda@acm.org)
 <img src="https://media.giphy.com/media/h5XIsfpZYWbUBtvg4i/giphy.gif" width="500" height="500">
 
 Competition is our world; top performance is our goal. For we want to create value on a permanent basis. “Quality First” is a core corporate value at Continental: Our products and services always meet the highest quality standards. We overcome obstacles and boundaries. And we never let up in any of these endeavors.
+
+## Trust
+
+<img src="https://www.incimages.com/uploaded_files/image/1920x1080/getty_475294806_2000133318188430258_173581.jpg" width="600" height="400">
+
+Trust is the basis for everything we do and the prerequisite for our success. We keep our promises. To all our employees and all stakeholders in Continental (such as customers, employees, investors, business partners, politicians and society). We are aware that trust is hard to gain and can be easily destroyed. That is why we prove at all times that the trust placed in us is worth it.
