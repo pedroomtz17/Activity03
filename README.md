@@ -20,3 +20,9 @@ Competition is our world; top performance is our goal. For we want to create val
 <img src="https://www.incimages.com/uploaded_files/image/1920x1080/getty_475294806_2000133318188430258_173581.jpg" width="600" height="400">
 
 Trust is the basis for everything we do and the prerequisite for our success. We keep our promises. To all our employees and all stakeholders in Continental (such as customers, employees, investors, business partners, politicians and society). We are aware that trust is hard to gain and can be easily destroyed. That is why we prove at all times that the trust placed in us is worth it.
+
+## Freedom To Act
+
+<img src="https://cdn.continental.com/fileadmin/_processed_/5/4/csm_freedom_20to_20ac_b434622e4f.jpg" width="600" height="400">
+
+We grant our employees the greatest possible freedom from the outset. At every level, we encourage their willingness to organize and to take responsibility for their work themselves. Through “Balance of Cooperation” – another core initiative – we create the right amount of centralized and decentralized responsibility.
