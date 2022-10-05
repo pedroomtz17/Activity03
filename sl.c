@@ -41,6 +41,9 @@
 #include <unistd.h>
 #include "sl.h"
 
+#include <stdlib.h>	//these libraries may be needed in the future
+#include <stdio.h>
+
 void add_smoke(int y, int x);
 void add_man(int y, int x);
 int add_C51(int x);

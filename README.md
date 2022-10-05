@@ -26,3 +26,9 @@ Trust is the basis for everything we do and the prerequisite for our success. We
 <img src="https://cdn.continental.com/fileadmin/_processed_/5/4/csm_freedom_20to_20ac_b434622e4f.jpg" width="600" height="400">
 
 We grant our employees the greatest possible freedom from the outset. At every level, we encourage their willingness to organize and to take responsibility for their work themselves. Through “Balance of Cooperation” – another core initiative – we create the right amount of centralized and decentralized responsibility.
+
+## _Continental's vision_
+
+<img src="https://www.tyrehub.co.nz/assets/Vision-Zero__ResizedImageWzMwMCwyOThd.png" width="400" height="400">
+
+
