@@ -20,3 +20,10 @@ Competition is our world; top performance is our goal. For we want to create val
 <img src="https://www.incimages.com/uploaded_files/image/1920x1080/getty_475294806_2000133318188430258_173581.jpg" width="600" height="400">
 
 Trust is the basis for everything we do and the prerequisite for our success. We keep our promises. To all our employees and all stakeholders in Continental (such as customers, employees, investors, business partners, politicians and society). We are aware that trust is hard to gain and can be easily destroyed. That is why we prove at all times that the trust placed in us is worth it.
+
+
+## _Continental's vision_
+
+<img src="https://www.tyrehub.co.nz/assets/Vision-Zero__ResizedImageWzMwMCwyOThd.png" width="400" height="400">
+
+
