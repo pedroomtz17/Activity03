@@ -86,7 +86,7 @@ void option(char *str)
 
 int main(int argc, char *argv[])
 {
-    int x, i;
+    int x, i , j;
 
     for (i = 1; i < argc; ++i) {
         if (*argv[i] == '-') {
@@ -105,7 +105,7 @@ int main(int argc, char *argv[])
         if (LOGO == 1) {
             if (add_sl(x) == ERR) break;
         }
-        else if (C51 == 1) {
+        else if (C51 != 1) {
             if (add_C51(x) == ERR) break;
         }
         else {
@@ -180,7 +180,7 @@ int add_D51(int x)
         = {COAL01, COAL02, COAL03, COAL04, COAL05,
            COAL06, COAL07, COAL08, COAL09, COAL10, COALDEL};
 
-    int y, i, dy = 0;
+    int y, i, dy = 1;
 
     if (x < - D51LENGTH)  return ERR;
     y = LINES / 2 - 5;
