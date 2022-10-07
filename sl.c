@@ -78,7 +78,7 @@ void option(char *str)
             case 'F': FLY      = 1; break;
             case 'l': LOGO     = 1; break;
             case 'c': C51      = 1; break;
-	    case 'x': C100     = 0; break;
+	        case 'x': C100     = 0; break;
             default:                break;
         }
     }
@@ -86,11 +86,11 @@ void option(char *str)
 
 int main(int argc, char *argv[])
 {
-    int x, i , j;
+    int x, con , j;
 
-    for (i = 1; i < argc; ++i) {
-        if (*argv[i] == '-') {
-            option(argv[i] + 1);
+    for (con = 1; con < argc; ++con) {
+        if (*argv[con] == '-') {
+            option(argv[con] + 1);
         }
     }
     initscr();
@@ -281,7 +281,7 @@ void add_smoke(int y, int x)
                                  2,  2, 2, 3, 3, 3             };
     int i;
 
-    if (x % 4 == 0) {
+    if (x % 4 > 0) {
         for (i = 0; i < sum; ++i) {
             my_mvaddstr(S[i].y, S[i].x, Eraser[S[i].ptrn]);
             S[i].y    -= dy[S[i].ptrn];
