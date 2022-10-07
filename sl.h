@@ -60,10 +60,10 @@
 
 #define COALDEL "                              "
 
-#define LOGOHIGHT    	 6
-#define LOGOFUNNEL  	 4
-#define LOGOLENGTH      84
-#define LOGOPATTERNS	 6
+#define LOGOHIGHT    	 9
+#define LOGOFUNNEL  	89
+#define LOGOLENGTH      10
+#define LOGOPATTERNS	20
 
 #define LOGO1  "     ++      +------ "
 #define LOGO2  "     ||      |+-+ |  "
