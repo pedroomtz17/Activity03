@@ -62,7 +62,7 @@
 
 #define LOGOHIGHT    	 9
 #define LOGOFUNNEL  	 4
-#define LOGOLENGTH      84
+#define LOGOLENGTH      10
 #define LOGOPATTERNS	 6
 
 #define LOGO1  "     ++      +------ "
