@@ -3,7 +3,7 @@
  *        Copyright 1993,1998,2014
  *                  Toyoda Masashi
  *                  (mtoyoda@acm.org)
- *        Last Modified: 2014/06/03
+ *        Last Modified: 2022/10/05
  *========================================
  */
 /* sl version 5.02 : Fix compiler warnings.                                  */
@@ -56,6 +56,8 @@ int ACCIDENT  = 0;
 int LOGO      = 0;
 int FLY       = 0;
 int C51       = 0;
+int C52      = 1;
+int C100      = 100;
 
 int my_mvaddstr(int y, int x, char *str)
 {
@@ -76,6 +78,7 @@ void option(char *str)
             case 'F': FLY      = 1; break;
             case 'l': LOGO     = 1; break;
             case 'c': C51      = 1; break;
+	    case 'x': C100     = 0; break;
             default:                break;
         }
     }
