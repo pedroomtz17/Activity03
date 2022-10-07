@@ -56,7 +56,7 @@ int ACCIDENT  = 0;
 int LOGO      = 0;
 int FLY       = 0;
 int C51       = 0;
-int CC51      = 1;
+int C52      = 1;
 int C100      = 100;
 
 int my_mvaddstr(int y, int x, char *str)
